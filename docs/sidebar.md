@@ -13,8 +13,8 @@ Sidebar component serves to list and filter existing objects. It consists of 5 s
 - `Organizations`
 - `Regions`
 - `Instances`
-- `Namespaces`
-- `Applications`
+- `Namespaces` or `Fleets`
+- `Applications` or `Robots`
 
 ## Sidebar Item
 
