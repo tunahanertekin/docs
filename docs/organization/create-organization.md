@@ -2,7 +2,11 @@
 sidebar_position: 3
 ---
 
-# Create Organization
+# Create
+
+![To create an organization, all you need is to determine an organization name.](./img/create-org.gif)
+
+## Creation Flow
 
 ![Create Organization](./img/create-org.png)
 

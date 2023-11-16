@@ -2,11 +2,15 @@
 sidebar_position: 5
 ---
 
-# Create Instance
+# Create
+
+![To create a Cloud Instance, all you need is to determine a Cloud Instance name.](./img/create-instance.gif)
+
+## Creation Flow
 
 ![Create Instance](./img/create-instance.png)
 
-- To create a Cloud Instance, all you need is to determine a Cloud Instance name.
+To create a Cloud Instance, all you need is to determine a Cloud Instance name.
 
 - Click on the "Instance" button in the sidebar to open the list of Instances. The current Instances you have will be listed in the displayed tab.
 

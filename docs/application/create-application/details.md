@@ -26,11 +26,15 @@ You can choose the application category and application here.
 
 You can choose the GPU model here.
 
+If you have `MIG` support architecturally, you need a minimum of 1 Core to create an application. Other than that, you will always need 2 Cores.
+
 ### GPU Core Count
 
 ![GPU Core Count](./img/gpu-core-count.png)
 
 Here you can determine how many cores your application will use.
+
+The number of cores depends on the preferred GPU model. The number of available cores of the preferred GPU model is the maximum number of cores for the app to be created.
 
 ### VDI Session Count
 
@@ -78,7 +82,7 @@ As in the example in the image, `/home/robolaunch` directory are added as must a
 
 You can link a directory on the host to the directory specified in the application here.
 
-As in the example in the image, the /dataset directory is mounted to the /robot-dataset directory in the application.
+As in the example in the image, the `/dataset` directory is mounted to the `/robot-dataset` directory in the application.
 
 ### Custom Port Exposure From IDE
 

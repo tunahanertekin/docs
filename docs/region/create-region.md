@@ -2,7 +2,11 @@
 sidebar_position: 4
 ---
 
-# Create Region
+# Create
+
+![To create a Region, all you need is to determine a Region name.](./img/create-region.gif)
+
+## Creation Flow
 
 ![Create Region](./img/create-region.png)
 
