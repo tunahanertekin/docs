@@ -2,4 +2,4 @@
 sidebar_position: 6
 ---
 
-# Control Plane
+# Architecture and User Guide
