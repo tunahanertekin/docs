@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Overview of robolaunch
 
  robolaunch is a cutting-edge platform meticulously designed to empower development teams in building sophisticated **robotics** and **AI/ML** applications that demand substantial GPU power. The platform is engineered to eliminate the complexities associated with infrastructure management, providing a seamless and efficient environment for development, collaboration, and deployment.
