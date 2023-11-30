@@ -4,11 +4,9 @@ sidebar_position: 1
 
 # Remote Desktop
 
-## Remote Desktop
-
 Remote Desktop allows you to remotely control the instance created for your application as if you were controlling your own computer.
 
-##
+## Display
 
 ![Remote Desktop allows you to remotely control the instance created for your application as if you were controlling your own computer.](./img/vdi.png)
 
@@ -16,7 +14,15 @@ Remote Desktop allows you to remotely control the instance created for your appl
 
 You can view and control the same screen with your team members. You can see who you are watching with, and even have instant conversations in the chat section.
 
+### Control Bar
+
+![Remote Desktop allows you to remotely control the instance created for your application as if you were controlling your own computer.](./img/vdi-control.png)
+
+VDI Control Bar lets you control the stream. You can take control of the instance, control the volume, trigger a soft or hard restart, and even examine the log of the current service.
+
 ## Remote Desktop Tabs
+
+Remote Desktop Tabs allows you to chat with your teammates, see who is watching this stream, and read the readme file of the current application.
 
 ### Chat Tab
 
