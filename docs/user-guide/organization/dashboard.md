@@ -2,12 +2,12 @@
 sidebar_position: 1
 ---
 
-# Dashboard Overview
+# Overview
 An organization in the robolaunch platform serves as a foundational unit for account management. It allows users, especially administrators, to efficiently organize and manage multiple accounts within a unified structure. Key features and responsibilities related to the organization include:
 
 **Features:**
 * Central management of assets
-* Central billing for multiple users & teams
+* Central billing for multiple users & teams (public cloud)
 * Region and availability zone management
 * Security and compliance
     * Identity and access management
@@ -15,12 +15,13 @@ An organization in the robolaunch platform serves as a foundational unit for acc
 * User invitation
 * Collaboration and communication
 
+# Navigating Organization Dashboard
+
+The organization dashboard provides detailed information about the organizations you have. It basically consists of 2 sections. Widgets and general view:
+
+## General View
 
 ![The organization dashboard provides detailed information about the organizations you have.](./img/org-dashboard.png)
-
-The organization dashboard provides detailed information about the organizations you have.
-
-It basically consists of 2 sections. Widgets and general table.
 
 ## Widgets
 
