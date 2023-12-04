@@ -1,27 +1,35 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 ---
 
-# Create
+# Creating a Region
+Below, the video offers a detailed walkthrough of the Region creation process within robolaunch. Observe as the user navigates through the platform, exploring the 'Region' section on the dashboard. Witness the seamless initiation of a new Region, where computing resources for both AI and robotics development are provisioned and managed. The user efficiently completes the required details, ensuring a streamlined workflow within the robolaunch environment. 
 
 ![To create a Region, all you need is to determine a Region name.](./img/create-region.gif)
 
-## Creation Flow
+## Creation Steps
 
 ![Create Region](./img/create-region.png)
 
-To create a Region, all you need is to determine a Region name.
+To establish a new computing Region, follow these steps for precise creation within the robolaunch platform.
 
-- Click on the "Region" button in the sidebar to open the list of Regions. The current Regions you have will be listed in the displayed tab.
+**1. Determine Region Name:** Decide on a unique name for your Region.
 
-- At the bottom of the opened tab, click on the "Create Region" button.
+**2. Navigate to Region Section:** Click on the "Region" button in the sidebar to access the list of existing Regions.
 
-- If you receive a prompt asking you to select an organization, you need to click on the desired organization to determine under which organization the Region will be located. After completing the selection process, click the "Create Region" button again.
+**3. Explore Existing Regions:** View the current Regions listed in the displayed tab.
 
-- After clicking, enter your desired Region name in the "region name" field in the form that appears.
+**4. Initiate Creation:** At the bottom of the Region list tab, find and click on the "Create Region" button.
 
-- Then select the region you want.
+**5. Select Organization (if prompted):** If prompted to select an organization, click on the desired organization to determine the location of the Region. After the selection, click the "Create Region" button again.
 
-- Finally, click on the "Create a new Region" button.
+**6. Complete the Form:** A form will appear. Enter your chosen Region name in the "Region Name" field. Select the specific region you want.
 
-After clicking, you will be redirected to the Regions list. In the displayed list, you can view the Region you created.
+**7. Confirm Creation:** Click on the "Create a New Region" button to finalize the creation process.
+
+**8. Review Region List:** After completion, you will be redirected to the Regions list. Verify that the new Region is now visible in the displayed list.
+
+Upon completion, the Regions list will refresh, displaying the newly created Region. Explore the powerful features available for your AI and robotics development endeavors within the robust cloud-based infrastructure of robolaunch.
+
+# Further Steps
+After successfully creating a new Region, your infrastructure is now equipped for seamless AI and robotics development. Delve further into your workflow by continuing with the creation of Instances, where you can provision and manage computing resources for your specific projects.

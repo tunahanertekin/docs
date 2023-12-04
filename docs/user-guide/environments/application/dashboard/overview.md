@@ -2,8 +2,8 @@
 sidebar_position: 1
 ---
 
-# Overview
-
+# Application Overview
+The Application Environment within robolaunch is tailored for AI/ML development projects. This section provides an in-depth overview of the tools and features available in the Application Environment, making it a hub for advanced computational tasks and streamlined development workflows.
 ## Overview
 
 ![In the Overview tab, you can check the application status, view recent activities, and view workspaces, if any.](./img/app-tab-overview.png)

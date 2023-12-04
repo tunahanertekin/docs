@@ -2,20 +2,17 @@
 sidebar_position: 4
 ---
 
-# Stop
+# Stopping Instance
 
 ![All you need to stop an instance is just a few clicks.](./img/stop-instance.gif)
 
-## Deletion Flow
+## Stopping Steps
+ Follow the straightforward steps below to stop your instance within the robolaunch platform.
 
 ![Delete Instance](./img/instance-actions.png)
 
-All you need to stop an instance is just a few clicks.
+- **1. Navigate to the Instances Dashboard:** Go to the dashboard where your instances are located. (Access by clicking the region icon in the sidebar and selecting the > button on any item.)
+- **2. Initiate Stop Command:** Click on the button with the stop icon on the right side of the opened table rows corresponding to the desired Instance.
+- **3. Confirm Action:** After clicking, confirm the action through the popup that appears.
 
-- Go to the dashboard where your instances are. (You can get there by clicking the region icon in the sidebar and click the `>` button on any item.)
-
-- Click on the button with the stop icon on the right side of the opened table rows.
-
-- After clicking, confirm the popup that appears.
-
-Finally, the instance chart will be refreshed. You can view existing instances in the displayed table.
+Congratulations! You've successfully stopped your Cloud Instance. The instance chart is now refreshed, allowing you to efficiently manage your computing resources for AI and robotics development.
