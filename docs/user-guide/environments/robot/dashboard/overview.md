@@ -4,13 +4,11 @@ sidebar_position: 2
 
 # Robot Overview
 
-The Application Environment within robolaunch is tailored for AI/ML development projects. This section provides an in-depth overview of the tools and features available in the Application Environment, making it a hub for advanced computational tasks and streamlined development workflows.
-
 ## Overview
 
-![In the Overview tab, you can check the application status, view recent activities, and view workspaces, if any.](./img/robot-tab-overview.png)
+![In the Overview tab, you can check the robot status, view recent activities, and view workspaces, if any.](./img/robot-tab-overview.png)
 
-In the Overview tab, you can check the application status, view recent activities, and view workspaces, if any.
+In the Overview tab, you can check the robot status, view recent activities, workspaces, build managers and view launch managers, if any.
 
 ## Widgets
 
@@ -24,11 +22,11 @@ Widgets provide information about objects on the dashboard.
 
 The information widget explains which objects are available on the current dashboard and how they can be managed. You can run the auxiliary guide on this subject with the `Show Guide` button.
 
-### Application Status Widget
+### Robot Status Widget
 
-![Application Status Widget](./img/robot-status-widget.png)
+![Robot Status Widget](./img/robot-status-widget.png)
 
-Status Widget informs you about the status of your current application. If the installation process is not completed and you cannot go to other tabs, you can get information about the state by checking here.
+Status Widget informs you about the status of your current robot. If the installation process is not completed and you cannot go to other tabs, you can get information about the state by checking here.
 
 ### Activities Widget
 
