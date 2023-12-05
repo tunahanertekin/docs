@@ -3,99 +3,73 @@ sidebar_position: 1
 ---
 
 # Details (Step 1)
+The "Application Details" form is a comprehensive set of configurations that define the main settings for creating your application. You can see the whole form in the below picture.
 
 ![Details form is the form that contains all the basic settings of your application to be created.](./img/details.png)
 
-Details form is the form that contains all the main settings and configurations of your application to be created.
-
 ### Application Name
+Specify a unique name for your application. This name will help you easily identify and manage your applications within the robolaunch platform.
 
 ![Application Name](./img/name.png)
 
-You can specify the name of your application here.
-
 ### Application Categories
+Choose the application category based on your project type. Available categories include Plain, Robotics, Simulation, and AI&ML. Selecting the appropriate category helps optimize the platform for your specific development needs.
 
 ![Application Categories](./img/categories.png)
 
-You can choose the application category and application here.
-
 ### GPU Models
+Choose the GPU model that aligns with your application requirements. If MIG (Multi-Instance GPU) support is available architecturally, a minimum of 1 Core is required to create an application. Otherwise, 2 Cores are always needed.
 
 ![GPU Models](./img/gpu-models.png)
 
-You can choose the GPU model here.
-
-If you have `MIG` support architecturally, you need a minimum of 1 Core to create an application. Other than that, you will always need 2 Cores.
-
 ### GPU Core Count
+Determine the number of GPU cores your application will use. The available cores depend on the selected GPU model. The chosen core count should not exceed the maximum number of cores supported by the selected GPU model.
 
 ![GPU Core Count](./img/gpu-core-count.png)
 
-Here you can determine how many cores your application will use.
-
-The number of cores depends on the preferred GPU model. The number of available cores of the preferred GPU model is the maximum number of cores for the app to be created.
-
 ### VDI Session Count
+Specify the number of simultaneous connections allowed to your application's Virtual Desktop Infrastructure (VDI) service. This parameter controls the accessibility of your application to multiple users.
 
 ![VDI Session Count](./img/vdi-session-count.png)
 
-Here you can determine how many people can connect to your application's VDI service at the same time.
-
 ### Storage
+Allocate the desired amount of storage space for your application. This setting determines the storage capacity available for your project's files, data, and related resources.
 
 ![Storage](./img/storage.png)
 
-You can determine how much storage space will be allocated for your application here.
-
 ### Configure Workspaces
+If needed, define specific workspaces for your application. Workspaces are customizable environments within your application that cater to different development or project requirements.
 
 ![Configure Workspaces](./img/configure-workspaces.png)
 
-If you want to specify workspaces, you can do so here.
-
 ## Advanced Settings
+Access advanced settings for your application, such as directories or ports. Fine-tune configurations to meet specific needs related to your project's file structure or communication ports.
 
 ![Advanced Settings](./img/advanced-settings.png)
 
-It contains advanced settings of the application such as Directories or Port.
-
 ### Persistent Directories
+Specify directories that should persist within the application. Common directories, such as /var, /etc, /opt, and /usr, can be added as default or mandatory persistent directories.
 
 ![Persistent Directories](./img/persistent-directories.png)
 
-Here you can persist directorys on the application.
-
-As in the example in the image, `/var`, `/etc`, `/opt` and `/usr` directories are added as must and default.
-
 ### Granted Directories
+Define directories that users need access to within the application. For instance, /home/robolaunch can be set as a must-have and default directory.
 
 ![Granted Directories](./img/granted-directories.png)
 
-Here you can specify the directories that the user needs to access.
-
-As in the example in the image, `/home/robolaunch` directory are added as must and default.
-
 ### Host Directories
+Link a directory on the host to a directory specified in the application. This feature allows seamless integration of external directories into the application's file system. 
 
 ![Host Directories](./img/host-directories.png)
 
-You can link a directory on the host to the directory specified in the application here.
-
-As in the example in the image, the `/dataset` directory is mounted to the `/robot-dataset` directory in the application.
-
 ### Custom Port Exposure From IDE
+Specify custom ports for your application when running in the Integrated Development Environment (IDE) service. This allows you to expose specific ports, such as 8077 for Java in the provided example.
 
 ![Custom Port Exposure From IDE](./img/custom-port-ide.png)
 
-Here you can specify the custom ports you want your application running in the IDE service to expose.
-
-As in the example in the image, the `8077` port named `java` can be output from the `32549` port.
-
 ### Custom Port Exposure From VDI
+Specify custom ports for your application when running in the Virtual Desktop Infrastructure (VDI) service. This enables you to expose designated ports, like 3000 for rjsx in the provided example.
 
 ![Custom Port Exposure From VDI](./img/custom-port-vdi.png)
 
-Here you can specify the custom ports you want your application running in the VDI service to expose.
-
-As in the example in the image, the `3000` port named `rjsx` can be output from the `32118` port.
+Feel free to review and adjust these configurations to tailor your application environment according to the unique needs of your project. Once you have finalized the settings, proceed with confidence, knowing that your application is configured to deliver optimal performance and functionality within the robolaunch platform.

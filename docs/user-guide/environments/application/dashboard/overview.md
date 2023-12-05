@@ -4,34 +4,37 @@ sidebar_position: 1
 
 # Application Overview
 
-The Application Environment within robolaunch is tailored for AI/ML development projects. This section provides an in-depth overview of the tools and features available in the Application Environment, making it a hub for advanced computational tasks and streamlined development workflows.
+The Application Environment in robolaunch is meticulously designed for AI/ML development projects, providing a comprehensive set of tools and features to facilitate advanced computational tasks and enhance development workflows. This section offers a detailed overview of the capabilities within the Application Environment, empowering users with insights into their projects.
 
-## Overview
+## Overview Tab
+In the Overview tab, users can access key information and functionalities related to their application:
 
 ![In the Overview tab, you can check the application status, view recent activities, and view workspaces, if any.](./img/app-tab-overview.png)
 
-In the Overview tab, you can check the application status, view recent activities, and view workspaces, if any.
+- **Application Status:** Check the real-time status of your application. The status widget provides essential details, including the progress of the installation process. This ensures you stay informed, especially during critical stages.
+
+- **Recent Activities:** Gain visibility into the recent activities and transactions within your application. The Activities Widget serves as a timeline, documenting crucial events and changes for reference.
+
+- **Workspaces:** Explore the available workspaces associated with your application. Workspaces provide designated areas for collaborative coding and project development.
 
 ## Widgets
+Widgets play a vital role in presenting valuable information and quick access to dashboard elements:
 
 ![Instance Dashboard Widgets](./img/app-widgets.png)
 
-Widgets provide information about objects on the dashboard.
-
 ### Information Widget
+This widget serves as a guide, offering insights into the objects available on the current dashboard and guiding users on how to manage them. Activate the auxiliary guide with the "Show Guide" button for additional assistance.
 
 ![Information Widget](./img/app-info-widget.png)
 
-The information widget explains which objects are available on the current dashboard and how they can be managed. You can run the auxiliary guide on this subject with the `Show Guide` button.
-
 ### Application Status Widget
+Stay informed about the current state of your application through the Status Widget. It provides a quick overview of whether the installation process is completed or ongoing, allowing for seamless navigation to other tabs. 
 
 ![Application Status Widget](./img/app-info-widget.png)
 
-Status Widget informs you about the status of your current application. If the installation process is not completed and you cannot go to other tabs, you can get information about the state by checking here.
-
 ### Activities Widget
+Track ongoing and recent activities within your application with the Activities Widget. This feature enhances visibility, ensuring users are aware of the latest changes and operations. 
 
 ![Activities Widget](./img/app-activities-widget.png)
 
-The Activities Widget allows you to view current and recent transactions in your app.
+These widgets collectively contribute to a dynamic and user-friendly environment, empowering developers and data scientists to efficiently manage and monitor their AI/ML projects.
