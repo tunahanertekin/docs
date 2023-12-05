@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Dashboard
 
-![The fleet dashboard provides detailed information about the fleets you have.](./img/fleet-dasboard.png)
+![The fleet dashboard provides detailed information about the fleets you have.](./img/fleet-dashboard.png)
 
 The fleet dashboard provides detailed information about the fleets you have.
 
