@@ -1,8 +1,10 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 # File Manager
+
+## File Manager
 
 ![File Manager is used to control the file system on the Instance, download your files from the remote computer or upload your files to the remote computer.](./img/file-manager.png)
 
