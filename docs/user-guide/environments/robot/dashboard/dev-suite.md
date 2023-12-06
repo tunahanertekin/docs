@@ -1,63 +1,51 @@
 ---
-sidebar_position: 6
+sidebar_position: 5
 ---
 
 # Development Suite
+The Development Suite in the Robot dashboard is a powerful combination of tools, including Remote Desktop and Code Editor, designed to provide a unified and collaborative development experience.
 
 ![Remote Desktop allows you to remotely control the instance created for your robot as if you were controlling your own computer.](./img/dev-suite.png)
 
 ## Remote Desktop
 
-Remote Desktop allows you to remotely control the instance created for your robot as if you were controlling your own computer.
+Remote Desktop allows you to take control of the instance created for your robot as if you were directly interacting with your own computer.
 
 ### Display
+With Remote Desktop, you can remotely access and control the instance, enabling seamless collaboration with your team. This feature allows you to share the same screen with your teammates, facilitating real-time collaboration. The integrated chat section allows instant communication during the development process.
 
 ![Remote Desktop allows you to remotely control the instance created for your robot as if you were controlling your own computer.](./img/dev-suite.png)
 
-Remote Desktop allows you to remotely control the instance created for your robot as if you were controlling your own computer.
-
-You can view and control the same screen with your team members. You can see who you are watching with, and even have instant conversations in the chat section.
-
 #### Control Bar
+The VDI Control Bar empowers you to manage the stream efficiently. It provides controls to take charge of the instance, adjust volume settings, initiate a soft or hard restart, and examine the log of the current service.
 
 ![Remote Desktop allows you to remotely control the instance created for your robot as if you were controlling your own computer.](./img/vdi-control.png)
 
-VDI Control Bar lets you control the stream. You can take control of the instance, control the volume, trigger a soft or hard restart, and even examine the log of the current service.
-
 ### Remote Desktop Tabs
-
-Remote Desktop Tabs allows you to chat with your teammates, see who is watching this stream, and read the readme file of the current robot.
+Remote Desktop Tabs offer additional functionalities, allowing you to engage with your teammates and access essential information about the robot.
 
 #### Chat Tab
+The Chat Tab provides a dedicated space for communication with your teammates while remotely controlling the robot. This fosters effective collaboration during development.
 
 ![It is a tab that allows you to talk to your teammates while controlling the computer remotely.](./img/vdi-chat.png)
 
-It is a tab that allows you to talk to your teammates while controlling the computer remotely.
-
 #### Viewers Tab
+The Viewers Tab displays the list of individuals present when you control the robot remotely. This feature enhances visibility and facilitates teamwork.
 
 ![This is the tab where you can see who is here when you control the computer remotely with your teammates.](./img/vdi-viewers.png)
 
-This is the tab where you can see who is here when you control the computer remotely with your teammates.
-
 #### ReadMe Tab
-
-If the created robot already has a ReadMe.md file, this is the tab where you can access the documents of your robot.
+If the created robot includes a ReadMe.md file, the ReadMe Tab provides quick access to the documentation of your robot, offering valuable insights and guidance.
 
 ## Code Editor
-
-Code editor allows you to develop your projects in workspaces in your robot. It is no different from MVC.
+The Code Editor is an integral component of the Development Suite, offering a dedicated space for developing projects in workspaces within your robot. This tool is designed to streamline the development process.
 
 ### IDE
+The IDE component of the Code Editor enables collaborative project development within workspaces. It provides a familiar environment, making it easy for teams to collaborate on projects.
 
 ![Code editor allows you to develop your projects in workspaces in your robot. It is no different from MVC.](./img/dev-suite.png)
 
-Code editor allows you to develop your projects in workspaces in your robot. It is no different from MVC.
-
-You can make improvements together with your team.
-
 ### Control Bar
+The IDE Control Bar allows you to manage the IDE Pod efficiently. It provides controls to initiate a soft or hard restart and examine the log of the current service, ensuring a smooth development workflow.
 
 ![Control Bar](./img/code-editor-bar.png)
-
-IDE Control Bar lets you control the IDE Pod. You can trigger a soft or hard restart, and even examine the log of the current service.
