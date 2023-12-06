@@ -3,19 +3,17 @@ sidebar_position: 3
 ---
 
 # Deleting a Robot
+Deleting a robot is a straightforward process, requiring just a few clicks to seamlessly manage your robotics projects.
 
 <!-- ![All you need to delete an robot is just a few clicks.](./img/delete-robot.gif) -->
 
-## Deletion Flow
+## Deletion Steps
 
 ![Delete Robot](./img/delete-robot.png)
 
-All you need to delete an robot is just a few clicks.
+Effortlessly remove a robot from your dashboard by following these simple steps:
+- Go to the dashboard where your robots are located. (Access it by clicking the organization icon in the sidebar and then clicking the > button on any item.)
+- Identify the robot you wish to delete, and click on the trash icon located on the right side of the corresponding table row.
+- Confirm the deletion by responding to the popup that appears.
 
-- Go to the dashboard where your robots are. (You can get there by clicking the organization icon in the sidebar and click the `>` button on any item.)
-
-- Click on the button with the trash icon on the right side of the opened table rows.
-
-- After clicking, confirm the popup that appears.
-
-Finally, the robot chart will be refreshed. You can view existing robots in the displayed table.
+Upon completion, the robot chart will be refreshed, and you can readily observe the updated list of existing robots in the displayed table. Streamlining the management of your robotics environment has never been more efficient.
