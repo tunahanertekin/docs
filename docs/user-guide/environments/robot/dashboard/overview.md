@@ -2,9 +2,7 @@
 sidebar_position: 2
 ---
 
-# Robot Overview
-
-## Overview
+# Overview
 
 ![In the Overview tab, you can check the robot status, view recent activities, and view workspaces, if any.](./img/robot-tab-overview.png)
 

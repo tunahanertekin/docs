@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Delete
+# Deleting a Robot
 
 <!-- ![All you need to delete an robot is just a few clicks.](./img/delete-robot.gif) -->
 
