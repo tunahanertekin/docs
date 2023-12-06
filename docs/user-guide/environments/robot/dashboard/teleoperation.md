@@ -4,9 +4,19 @@ sidebar_position: 4
 
 # Teleoperation
 
+![Teleoperation tab is used to review all instantaneous data of the robot while controlling it.](./img/robot-tab-teleoperation.png)
+
+Teleoperation tab is used to review all instantaneous data of the robot while controlling it.
+
+## Display
+
+Remote Desktop allows you to remotely view the instance created for your application as if you were controlling your own computer.
+
 ## Widgets
 
-Data can be visualized and teleoperation via widgets in the Teleoperation Tab. Data can be monitored according to the widget tab.
+![Data can be visualized via widgets in the teleoperation tab. Data can be monitored according to the widget tab.](./img/robot-tab-visualization-circle-menu.png)
+
+Data can be visualized via widgets in the teleoperation tab. Data can be monitored according to the widget tab.
 
 ### Joystick Widget
 
