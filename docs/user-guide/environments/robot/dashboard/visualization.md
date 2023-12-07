@@ -10,9 +10,9 @@ Visualization is a tool that enables the visualization of instant data arriving 
 
 ## Widgets
 
-![Data can be visualized via widgets in the Visualization Tab. Data can be monitored according to the widget tab.](./img/robot-tab-visualization-circle-menu.png)
+![Data can be visualized via widgets in the visualization tab. Data can be monitored according to the widget tab.](./img/robot-tab-visualization-circle-menu.png)
 
-Data can be visualized via widgets in the Visualization Tab. Data can be monitored according to the widget tab.
+Data can be visualized via widgets in the visualization tab. Data can be monitored according to the widget tab.
 
 ### Camera Widget
 
