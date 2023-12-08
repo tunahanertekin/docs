@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Create
+# Creatin a Fleet
 
 ![To create a Fleet, all you need is to determine a fleet name.](./img/create-fleet.gif)
 

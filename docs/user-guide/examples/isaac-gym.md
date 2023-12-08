@@ -3,29 +3,42 @@ sidebar_position: 2
 ---
 
 # Isaac Gym
+[Isaac Gym](https://developer.nvidia.com/isaac-gym) is a high-performance physics simulation engine that leverages the power of GPUs to accelerate simulation speed and realism. It is designed to support a wide range of robotics and AI applications, including training and testing reinforcement learning agents, simulating real-world environments, and developing new physics algorithms.
 
-To create a Isaac Gym, you need is to few click.
+## Create an Isaac Gym Application with Just a Few Clicks
+With robolaunch, you can create an Isaac Gym application in just a few clicks. No need to worry about installing and configuring Isaac Gym on your own machine. robolaunch takes care of everything for you, providing you with a ready-to-use Isaac Gym instance in the cloud.
 
 ![To create a Isaac Gym, you need is to few click.](./img/isaac-gym.png)
 
-## Creation Flow
+## Here's how to create an Isaac Gym application on robolaunch:
 
-To create a Isaac Gym, you need is to few click.
+- Click on the **Applications** button in the sidebar to open the list of applications.
+- Click on the **Create Application** button at the bottom of the screen.
+- If prompted, select the **Organization**, **Region**, **Cloud Instance**, and **Fleet** under which you want to create the application.
+- In the **Application name** field, enter a name for your application.
+-Select the **Simulation** category and the Isaac Gym app version you want.
+-Fill in the remaining fields according to your needs.
+-Click on the **Create Application** button.
 
-- Click on the "Applications" button in the sidebar to open the list of applications. The current applications you have will be listed in the displayed tab.
+Once you click the **Create Application** button, robolaunch will automatically create an Isaac Gym instance for you in the cloud. You can then start using Isaac Gym immediately to simulate your robotics and AI applications.
 
-- At the bottom of the opened tab, click on the "Create Application" button.
+![Isaac Gym](./img/isaac-gym.gif)
 
-- If you receive a prompt asking you to select an Organization, Region, Cloud Instance or Namespace, you need to click on the desired object to determine under which Organization, Region, Cloud Instance or Namespace. After completing the selection process, click the "Create Application" button again.
+## Example Use Cases:
 
-- After clicking, enter your desired application name in the "Application name" field in the form that appears.
+- Train reinforcement learning agents for robotics tasks
+- Simulate real-world environments for testing and evaluation
+- Develop new physics algorithms for robotics and AI applications
+- Benchmark the performance of robotics and AI algorithms
 
-- Then select "Simulation" option of application categories.
+## Why Use robolaunch to Run Isaac Gym?
 
-- And select the app version you want.
+- **Convenience:** robolaunch makes it easy to get started with Isaac Gym, without the need for any installation or configuration.
+- **Scalability:** robolaunch provides you with access to powerful cloud resources, so you can scale your simulations to meet your needs.
+- **Reliability:** robolaunch takes care of maintaining and managing your Isaac Gym instances, so you can focus on your research and development.
 
-- Fill in all remaining fields according to your needs.
+## Additional Information:
 
-- Finally, click on the "Create Application" button.
-
-After clicking, you will be redirected to the application list. In the displayed list, you can view the aplication you created.
+- Isaac Gym is fully integrated with NVIDIA Omniverse, providing a seamless workflow for developing and deploying robotics and AI applications.
+- Isaac Gym supports a variety of physics engines, including PhysX and FleX, giving you the flexibility to choose the right engine for your needs.
+- Isaac Gym provides a rich set of tools and features for developing and debugging your simulations.

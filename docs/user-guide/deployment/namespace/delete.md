@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Delete
+# Deleting a Namespace
 
 ![All you need to delete an namespace is just a few clicks.](./img/delete-ns.gif)
 

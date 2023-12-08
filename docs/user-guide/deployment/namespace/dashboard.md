@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Dashboard
+# Overview
 
 ![The namespace dashboard provides detailed information about the namespaces you have.](./img/ns-dashboard.png)
 

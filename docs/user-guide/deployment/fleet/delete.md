@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Delete
+# Deleting a Fleet
 
 ![All you need to delete an fleet is just a few clicks.](./img/delete-fleet.gif)
 

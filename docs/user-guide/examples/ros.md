@@ -2,30 +2,39 @@
 sidebar_position: 2
 ---
 
-# Ros
+# ROS
 
-To create a Ros, you need is to few click.
+[ROS (Robot Operating System)](https://www.ros.org/) is an open-source middleware platform designed to facilitate the development of robotic software. It provides a robust and flexible framework for building complex and distributed robot applications. With ROS, you can easily create and connect various nodes, each responsible for specific tasks, enabling smooth and efficient robot operation.
+
+## Create a ROS Application in Just a Few Clicks
+robolaunch makes it simple to get started with ROS. Forget about manual installations and configuration complexities. robolaunch takes care of everything for you, offering a pre-configured ROS environment ready to use in the cloud.
 
 ![To create a Ros, you need is to few click.](./img/ros.png)
 
-## Creation Flow
+## Here's how to create a ROS application on robolaunch:
+- Click the **Application** button on the sidebar to open the list of applications.
+- Click the **Create Application** button at the bottom of the screen.
+- If prompted, choose the **Organization**, **Region**, **Cloud Instance**, and **Fleet** where you want to create the application.
+- Enter your desired application name in the **Application name** field.
+- Select the **Robotics** category and your preferred ROS distribution version.
+- Fill in the remaining fields as needed.
+- Click the **Create Application** button.
 
-To create a Ros, you need is to few click.
+Upon clicking the Create Application button, robolaunch automatically sets up a ROS environment for you in the cloud. This environment includes all the necessary ROS packages and tools, allowing you to start developing your robot application immediately.
 
-- Click on the "Applications" button in the sidebar to open the list of applications. The current applications you have will be listed in the displayed tab.
+![ROS](./img/ros.gif)
 
-- At the bottom of the opened tab, click on the "Create Application" button.
+## Example Use Cases:
 
-- If you receive a prompt asking you to select an Organization, Region, Cloud Instance or Namespace, you need to click on the desired object to determine under which Organization, Region, Cloud Instance or Namespace. After completing the selection process, click the "Create Application" button again.
+- Develop robot control and navigation algorithms
+- Implement perception and sensor processing tasks
+- Connect and interact with various sensors and actuators
+- Create robotic simulations and test environments
 
-- After clicking, enter your desired application name in the "Application name" field in the form that appears.
+## Why Choose robolaunch for ROS Development?
 
-- Then select "Robotics" option of application categories.
-
-- And select the app version you want.
-
-- Fill in all remaining fields according to your needs.
-
-- Finally, click on the "Create Application" button.
-
-After clicking, you will be redirected to the application list. In the displayed list, you can view the aplication you created.
+- **Convenience:** robolaunch eliminates the need for manual setup, simplifying your ROS development process.
+- **Scalability:** Easily scale your ROS environment to meet your project's needs with robolaunch's powerful cloud resources.
+- **Collaboration:** robolaunch facilitates seamless collaboration with your team on ROS applications.
+- **GPU Acceleration:** Leverage the power of GPUs for accelerated ROS simulations and development tasks.
+- **Cloud-based Development:** Enjoy a flexible and accessible development environment with robolaunch's cloud platform.

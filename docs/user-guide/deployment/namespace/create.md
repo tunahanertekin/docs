@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Create
+# Creating a Namespace
 
 ![To create a Namespace, all you need is to determine a Namespace name.](./img/create-ns.gif)
 
