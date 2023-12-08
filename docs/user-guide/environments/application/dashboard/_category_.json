@@ -1,6 +1,6 @@
 {
-  "label": "Application Overview",
-  "position": 1,
+  "label": "Application Pages",
+  "position": 2,
   "link": {
     "type": "generated-index"
   }

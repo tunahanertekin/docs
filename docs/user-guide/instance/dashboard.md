@@ -5,6 +5,8 @@ sidebar_position: 1
 # Overview
 The "Instance" section of the robolaunch platform encompasses two main types: "Cloud Instances" and "Physical Instances". The choice between these instances is driven by the specific requirements of your robotics and AI/ML projects.
 
+![Instance Overview](./img/instance-overview.png)
+
 **Cloud Instances:**
 
 - **_Applicable Use Cases:_** Essential for AI/ML development and integral to various robotics scenarios, including simulations and physical robotics operations.

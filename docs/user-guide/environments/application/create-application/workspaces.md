@@ -36,3 +36,8 @@ Specify the branch of the Git repository you want to include. A branch represent
 These configurations collectively define the workspaces and repositories integral to your application's structure and functionality within the robolaunch platform.
 
 Feel free to customize and manage these workspaces and repositories based on your project's requirements, facilitating collaborative development and streamlined version control for your application.
+
+# Next Steps
+Upon completing application creation on the robolaunch platform, you can move on to your application's internal page to achieve multiple use cases, such as code development, training, AI inference, etc.
+
+To discover further details, please refer to the next section on this documentation which is **"Application Pages"**.

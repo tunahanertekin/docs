@@ -3,8 +3,11 @@ sidebar_position: 1
 ---
 
 # Overview
+A Region in the robolaunch platform empowers your organization to seamlessly provision and manage computing resources, catering to both Cloud Instances and Physical Instances (if any), in a unified cloud-based platform. 
 
-A Region in the robolaunch platform empowers your organization to seamlessly provision and manage computing resources, catering to both Cloud Instances and Physical Instances (if any), in a unified cloud-based platform. This flexible infrastructure facilitates the integration of virtual machines (Cloud Instances) for AI and robotics development and connects them with single board computers and robots (Physical Instances) through a secure network.
+![Region Overview](./img/region-overview.png)
+
+This flexible infrastructure facilitates the integration of virtual machines (Cloud Instances) for AI and robotics development and connects them with single board computers and robots (Physical Instances) through a secure network.
 
 **Features:**
 

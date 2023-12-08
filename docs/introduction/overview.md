@@ -6,6 +6,8 @@ sidebar_position: 1
 
  robolaunch is a cutting-edge platform meticulously designed to empower development teams in building sophisticated **robotics** and **AI/ML** applications that demand substantial GPU power. The platform is engineered to eliminate the complexities associated with infrastructure management, providing a seamless and efficient environment for development, collaboration, and deployment.
 
+![Overview of robolaunch](./img/overview-of-robolaunch.png)
+
 ## What can be achieved?
 - **AI/ML Development:** Facilitate the creation of machine learning models through cloud-based Integrated Development Environments (IDEs) paired with GPU-based Virtual Desktop Infrastructure (VDI). This allows engineers to focus on application development without the burden of intricate infrastructure configurations.
 

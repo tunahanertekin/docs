@@ -11,3 +11,8 @@ The Build Manager plays a pivotal role in orchestrating and managing the build p
 Customize your build process by assigning a meaningful and descriptive name. This identifier helps you efficiently organize and differentiate between various builds within your robot's application, contributing to a well-structured development environment.
 
 ![Build Name](./img/w-name.png)
+
+# Next Steps
+Upon completing robot creation on the robolaunch platform, you can move on to your robot's internal page to achieve multiple use cases, such as code development, simulation, tele-operation, task management, etc.
+
+To discover further details, please refer to the next section on this documentation which is **"Robot Pages"**.

@@ -3,7 +3,11 @@ sidebar_position: 1
 ---
 
 # Overview
-An organization in the robolaunch platform serves as a foundational unit for account management. It allows users, especially administrators, to efficiently organize and manage multiple accounts within a unified structure. Key features and responsibilities related to the organization include:
+An organization in the robolaunch platform serves as a foundational unit for account management. 
+
+![Organization Overview](./img/organization-overview.png)
+
+It allows users, especially administrators, to efficiently organize and manage multiple accounts within a unified structure. Key features and responsibilities related to the organization include:
 
 **Features:**
 * Central management of assets

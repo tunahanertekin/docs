@@ -5,6 +5,7 @@ sidebar_position: 2
 # Why robolaunch?
 Embark on a transformative journey in AI and robotics development with robolaunch – a platform that transcends conventional boundaries. In a landscape where innovation, collaboration, and performance are paramount, robolaunch stands out as a beacon of progress. It's not just a development platform; it's a catalyst for redefining how we approach the challenges of today and tomorrow. As we delve into the unique features and benefits of robolaunch, discover why it's the strategic choice for those seeking to unlock the full potential of their AI and robotics projects.
 
+![Why robolaunch](./img/why-robolaunch.png)
 
 - **Technological Framework:**
 Robolaunch leverages containerization, Kubernetes orchestration, and GPU acceleration technologies to provide developers with instant, pre-configured development environments. These environments ensure code accessibility through simple URLs, enabling collaborative coding from anywhere. The platform supports one-click deployment, facilitating a smooth transition to cloud-based development.
