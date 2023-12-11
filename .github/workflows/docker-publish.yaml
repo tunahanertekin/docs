@@ -27,9 +27,9 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            your-docker-username/your-repo-name:latest
-            your-docker-username/your-repo-name:${{ github.sha }}
-            your-docker-username/your-repo-name:${{ steps.get_version.outputs.version }}
+            robolaunchio/docs:latest
+            robolaunchio/docs:${{ github.sha }}
+            robolaunchio/docs:${{ steps.get_version.outputs.version }}
         env:
           DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
           DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
