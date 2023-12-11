@@ -12,11 +12,19 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Extract version from package.json
+        id: extract_version
+        run: echo "::set-output name=version::$(node -e 'console.log(require("./package.json").version)')"
+
       - name: Build the Docker image
-        run: docker build . --file Dockerfile --tag robolaunchio/docs:0.0.1
+        run: |
+          docker build \
+            --file Dockerfile \
+            --tag robolaunchio/docs:${{ steps.extract_version.outputs.version }} \
+            .
 
       - name: Log in to Docker Hub
         run: docker login -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
 
       - name: Push the Docker image
-        run: docker push robolaunchio/docs:0.0.1
+        run: docker push robolaunchio/docs:${{ steps.extract_version.outputs.version }}
