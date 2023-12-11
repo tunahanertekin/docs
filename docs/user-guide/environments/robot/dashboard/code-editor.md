@@ -11,12 +11,12 @@ The Integrated Development Environment (IDE) is an integral part of the Code Edi
 
 The Code Editor promotes teamwork by allowing multiple team members to collaboratively work on projects within shared workspaces. This collaborative approach enhances productivity and fosters innovation.
 
-![Code editor allows you to develop your projects in workspaces in your application. It is no different from MVC.](./img/code-editor.png)
+![Code editor allows you to develop your projects in workspaces in your application. It is no different from MVC.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/environments/robot/dashboard/img/code-editor.png)
 
 ## Control Bar
 The Control Bar associated with the IDE provides essential functionalities for managing the IDE Pod and optimizing the development workflow.
 
-![Control Bar](./img/code-editor-bar.png)
+![Control Bar](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/environments/robot/dashboard/img/code-editor-bar.png)
 
 ## IDE Control Bar
 The IDE Control Bar empowers developers to take charge of the IDE Pod efficiently. Key functionalities include:

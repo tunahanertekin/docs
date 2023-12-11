@@ -8,7 +8,7 @@ sidebar_position: 2
 ## Create a Carla Application with Just a Few Clicks
 With robolaunch, you can create a Carla application in just a few clicks. No need to worry about installing and configuring Carla on your own machine. robolaunch takes care of everything for you, providing you with a ready-to-use Carla instance in the cloud.
 
-![To create a Carla, you need is to few click.](./img/carla.png)
+![To create a Carla, you need is to few click.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/examples/img/carla.png)
 
 ## Here's how to create a Carla application on robolaunch:
 
@@ -22,7 +22,7 @@ With robolaunch, you can create a Carla application in just a few clicks. No nee
 
 Once you click the **Create Application** button, robolaunch will automatically create a Carla instance for you in the cloud. You can then start using Carla immediately to train and test your self-driving car models.
 
-![Carla](./img/carla.gif)
+![Carla](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/examples/img/carla.gif)
 
 ## Example Use Cases:
 

@@ -13,7 +13,7 @@ The Remote Desktop functionality empowers you to seamlessly control the instance
 
 - **Instant Communication:** Utilize the chat section to have instant conversations with your team while controlling the computer remotely. This integrated communication feature fosters efficient collaboration during development.
 
-![Remote Desktop allows you to remotely control the instance created for your application as if you were controlling your own computer.](./img/vdi.png)
+![Remote Desktop allows you to remotely control the instance created for your application as if you were controlling your own computer.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/environments/robot/dashboard/img/vdi.png)
 
 ### Control Bar
 The VDI Control Bar offers a suite of controls to manage the stream effectively. Key functionalities include:
@@ -23,7 +23,7 @@ The VDI Control Bar offers a suite of controls to manage the stream effectively.
 - **Restart Options:** Trigger a soft or hard restart of the instance as needed.
 - **Log Examination:** Examine the log of the current service, providing insights into the application's performance and status.
 
-![Remote Desktop allows you to remotely control the instance created for your application as if you were controlling your own computer.](./img/vdi-control.png)
+![Remote Desktop allows you to remotely control the instance created for your application as if you were controlling your own computer.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/environments/robot/dashboard/img/vdi-control.png)
 
 ## Remote Desktop Tabs
 Access additional functionalities through Remote Desktop Tabs. Chat with teammates, monitor who is viewing the stream, and explore the ReadMe file of the current application. These tabs enrich the collaborative experience and provide quick access to pertinent information.
@@ -31,12 +31,12 @@ Access additional functionalities through Remote Desktop Tabs. Chat with teammat
 ### Chat Tab
 Engage in conversations with your teammates while actively controlling the computer remotely. This tab ensures seamless communication during collaborative development.
 
-![It is a tab that allows you to talk to your teammates while controlling the computer remotely.](./img/vdi-chat.png)
+![It is a tab that allows you to talk to your teammates while controlling the computer remotely.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/environments/robot/dashboard/img/vdi-chat.png)
 
 ### Viewers Tab
 Monitor who is present when you control the computer remotely. This tab provides visibility into the team members accessing the instance simultaneously.
 
-![This is the tab where you can see who is here when you control the computer remotely with your teammates.](./img/vdi-viewers.png)
+![This is the tab where you can see who is here when you control the computer remotely with your teammates.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/environments/robot/dashboard/img/vdi-viewers.png)
 
 ### ReadMe Tab
 Access relevant documentation for your application. If a ReadMe.md file exists, this tab serves as a centralized space for essential project information.

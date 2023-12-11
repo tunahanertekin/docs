@@ -5,11 +5,11 @@ sidebar_position: 3
 # Deleting a Robot
 Deleting a robot is a straightforward process, requiring just a few clicks to seamlessly manage your robotics projects.
 
-<!-- ![All you need to delete an robot is just a few clicks.](./img/delete-robot.gif) -->
+<!-- ![All you need to delete an robot is just a few clicks.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/environments/robot/img/delete-robot.gif) -->
 
 ## Deletion Steps
 
-![Delete Robot](./img/delete-robot.png)
+![Delete Robot](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/environments/robot/img/delete-robot.png)
 
 Effortlessly remove a robot from your dashboard by following these simple steps:
 - Go to the dashboard where your robots are located. (Access it by clicking the organization icon in the sidebar and then clicking the > button on any item.)

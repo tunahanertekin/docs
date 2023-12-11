@@ -6,7 +6,7 @@ sidebar_position: 1
 
 In the robolaunch platform, the term **Environment** encompasses the distinct use case types that can be developed and managed seamlessly. Two primary categories under the Environment umbrella are **Application** and **Robot**. Each represents a specific focus area for development, catering to the diverse needs of AI/ML and robotics projects.
 
-![Environment Overview](./img/environment-overview.png)
+![Environment Overview](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/environments/img/environment-overview.png)
 
 ## 1. Application Environment (AI/ML Projects)
 

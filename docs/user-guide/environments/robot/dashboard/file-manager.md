@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # File Manager
 
-![File Manager is used to control the file system on the Instance, download your files from the remote computer or upload your files to the remote computer.](./img/file-manager.png)
+![File Manager is used to control the file system on the Instance, download your files from the remote computer or upload your files to the remote computer.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/environments/robot/dashboard/img/file-manager.png)
 
 The File Manager, an integral component of the Robot dashboard, provides powerful functionalities to oversee and manipulate the file system within your robot's instance. It simplifies the process of file management, facilitating seamless interactions between your local machine and the remote computer.
 

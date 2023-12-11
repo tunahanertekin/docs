@@ -4,11 +4,11 @@ sidebar_position: 2
 
 # Creatin a Fleet
 
-![To create a Fleet, all you need is to determine a fleet name.](./img/create-fleet.gif)
+![To create a Fleet, all you need is to determine a fleet name.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/deployment/fleet/img/create-fleet.gif)
 
 ## Creation Flow
 
-![Create Fleet](./img/create-fleet.png)
+![Create Fleet](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/deployment/fleet/img/create-fleet.png)
 
 To create a Fleet, all you need is to determine a Fleet name.
 

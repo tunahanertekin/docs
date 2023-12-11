@@ -5,7 +5,7 @@ sidebar_position: 1
 # Overview
 The "Instance" section of the robolaunch platform encompasses two main types: "Cloud Instances" and "Physical Instances". The choice between these instances is driven by the specific requirements of your robotics and AI/ML projects.
 
-![Instance Overview](./img/instance-overview.png)
+![Instance Overview](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/instance/img/instance-overview.png)
 
 **Cloud Instances:**
 
@@ -49,34 +49,34 @@ A Physical Instance refers to a tangible device, such as a single-board computer
 
 The instance dashboard provides detailed information about the instances you have. It basically consists of 2 sections. Widgets and general view.
 
-![The instance dashboard provides detailed information about the instances you have.](./img/instance-dashboard.png)
+![The instance dashboard provides detailed information about the instances you have.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/instance/img/instance-dashboard.png)
 
 ## Widgets
 
-![Instance Dashboard Widgets](./img/instance-widgets.png)
+![Instance Dashboard Widgets](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/instance/img/instance-widgets.png)
 
 Widgets provide information about objects on the dashboard.
 
 ### Information Widget
 
-![Instance Dashboard Widgets](./img/instance-info-widget.png)
+![Instance Dashboard Widgets](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/instance/img/instance-info-widget.png)
 
 The information widget explains which objects are available on the current dashboard and how they can be managed. You can run the auxiliary guide on this subject with the `Show Guide` button.
 
 ### Instance Regions
 
-![Instance Dashboard Widgets](./img/instance-provider-widget.png)
+![Instance Dashboard Widgets](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/instance/img/instance-provider-widget.png)
 
 Instance Widget is maps the locations of instances created in providers.
 
 ### State Widget
 
-![Instance Dashboard Widgets](./img/instance-state-widget.png)
+![Instance Dashboard Widgets](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/instance/img/instance-state-widget.png)
 
 State Widget is a pie widget that visualizes the states of current objects and possible errors.
 
 ## Table
 
-![Instance Table](./img/instance-table.png)
+![Instance Table](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/instance/img/instance-table.png)
 
 General Table displays detailed information of existing objects. You can manage your objects with the `Actions` tab.

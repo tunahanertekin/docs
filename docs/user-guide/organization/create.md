@@ -6,11 +6,11 @@ sidebar_position: 2
 
 Below video provides a visual walkthrough of the organization creation process on robolaunch. Watch as the user seamlessly navigates through the robolaunch dashboard, accessing the 'Organization' section, initiating the creation of a new organization, and completing the form with the desired organization name. 
 
-![To create an organization, all you need is to determine an organization name.](./img/create-org.gif)
+![To create an organization, all you need is to determine an organization name.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/organization/img/create-org.gif)
 
 ## Creation Steps
 
-![Create Organization](./img/create-org.png)
+![Create Organization](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/organization/img/create-org.png)
 
 To create an organization:
 
