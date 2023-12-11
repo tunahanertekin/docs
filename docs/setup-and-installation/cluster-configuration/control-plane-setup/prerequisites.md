@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Prerequisites
 
-An Ubuntu 22.04 instance and `root` permissions are needed for the control plane setup. Before deploy components, you need to satisfy these requirements.
+An Ubuntu 22.04 instance and `root` permissions are needed for the control plane setup. Before deploying components, you need to satisfy these requirements.
 
 Make sure that the required packages are up to date.
 

@@ -104,14 +104,24 @@ helm upgrade --install \
 
 Open the user interface of Keycloak. Go to https://robolaunch-identity.robolaunch.internal/auth Import the realm. → (https://github.com/robolaunch/on-premise/releases/download/0.1.2-prerelease.10/robo-realm.json)
 
-**SCREENSHOT**
+
+![Creating realm](https://github.com/robolaunch/trademark/blob/main/repository-media/docs/setup/img/create-realm.png?raw=true)
+
+Create realm `robo-realm` by importing the file in link above:
+
+![Uploading realm](https://github.com/robolaunch/trademark/blob/main/repository-media/docs/setup/img/upload-realm.png?raw=true)
+
+Then select realm as `robo-realm`:
+
+![Selecting realm](https://github.com/robolaunch/trademark/blob/main/repository-media/docs/setup/img/select-realm.png?raw=true)
 
 Create a tester user with email verified. Set credentials as not temporary.
 
-**SCREENSHOT**
+![Create user](https://github.com/robolaunch/trademark/blob/main/repository-media/docs/setup/img/create-user.png?raw=true)
+![Create tester user](https://github.com/robolaunch/trademark/blob/main/repository-media/docs/setup/img/create-tester-user.png?raw=true)
 
-**SCREENSHOT**
 
-Go to robo-realm → Clients → gatekeeper → Credentials, then regenerate the client secret and store for backend’s property `quarkus.oidc.client.credentials`.
+Go to robo-realm → Clients → gatekeeper → Credentials, then regenerate the client secret and store it for backend’s property `quarkus.oidc.client.credentials` in further steps.
 
-**SCREENSHOT**
+![List clients](https://github.com/robolaunch/trademark/blob/main/repository-media/docs/setup/img/list-clients.png?raw=true)
+![Get client secret](https://github.com/robolaunch/trademark/blob/main/repository-media/docs/setup/img/get-client-secret.png?raw=true)

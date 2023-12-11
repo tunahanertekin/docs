@@ -93,12 +93,9 @@ helm upgrade --install \
 
 Create and store an access key and a secret key from MinIO for backend properties `quarkus.minio.accessKey` and `quarkus.minio.secretKey`.
 
-**SCREENSHOT**
+![MinIO access keys](https://github.com/robolaunch/trademark/blob/main/repository-media/docs/setup/img/minio-access-keys.png?raw=true)
+![MinIO create keys](https://github.com/robolaunch/trademark/blob/main/repository-media/docs/setup/img/minio-create-keys.png?raw=true)
 
-Add `platform.yaml` to `robolaunch-bucket`. → https://raw.githubusercontent.com/robolaunch/robolaunch/main/platform.yaml
+Add `platform.yaml`, `tls.crt` and `tls.key` to `robolaunch-bucket`. → https://raw.githubusercontent.com/robolaunch/robolaunch/main/platform.yaml
 
-**SCREENSHOT**
-
-Add `tls.crt` and `tls.key` to `robolaunch-bucket`.
-
-**SCREENSHOT**
+![MinIO robolaunch bucket](https://github.com/robolaunch/trademark/blob/main/repository-media/docs/setup/img/minio-robolaunch-bucket.png?raw=true)

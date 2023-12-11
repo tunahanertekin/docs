@@ -37,14 +37,14 @@ curl -X POST \
 }"
 ```
 
-Get organization ID from MinIO:
+After creating organization successfully, get organization ID from MinIO:
 
-**SCREENSHOT**
+![Organization bucket](https://github.com/robolaunch/trademark/blob/main/repository-media/docs/setup/img/organization-bucket.png?raw=true)
 
 Create region and cloud instance records:
 
 ```bash
-export org_id="44c2f834-0191-48b1-a0cf-8606c8efb740"
+export org_id="8e71e4ff-0287-422c-845f-c0b424e5abeb"
 export region=your-region-name
 
 # create region
@@ -65,3 +65,5 @@ curl -X POST \
   -H "Authorization: Bearer $access_token"  \
   -d "{\"organizationId\" : \"$org_id\",  \"roboticsClouds\": [{\"name\": \"$region\", \"region\" : \"$region\", \"cloudInstances\": [{\"name\" : \"$cloud_instance\"}]}]}"
 ```
+
+If the response says `success`, a new cloud instance (data plane) is registered to the control plane. Continue with [Data Plane Prerequisites](../../robolaunch-cloud-ai-ml-platform/prerequisites.md).  
