@@ -3,8 +3,8 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "UI Docs",
-  tagline: "Dinosaurs are cool",
+  title: "robolaunch Cloud Platform Docs",
+  tagline: "robolaunch empowers teams to create and manage cutting-edge apps - robotics, autonomous driving, and AI/ML - that demand GPU power.",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -50,7 +50,7 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "User Interface",
+      title: "robolaunch Cloud Platform",
       logo: {
         alt: "UI Docs Logo",
         src: "img/logo.png",
