@@ -6,11 +6,11 @@ sidebar_position: 3
 Deleting an application is a straightforward process that requires just a few clicks. Follow these steps to remove an application from your robolaunch dashboard:
 
 
-<!-- ![All you need to delete an region is just a few clicks.](./img/delete-region.gif) -->
+<!-- ![All you need to delete an region is just a few clicks.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/environments/application/img/delete-region.gif) -->
 
 ## Deletion Steps
 
-![Delete Region](./img/delete-app.png)
+![Delete Region](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/environments/application/img/delete-app.png)
 
 1. **Navigate to the Dashboard:**
    - Access the dashboard where your applications are listed. You can do this by clicking the fleet icon in the sidebar and selecting the desired application by clicking the `>` button.

@@ -4,11 +4,11 @@ sidebar_position: 3
 
 # Deleting a Namespace
 
-![All you need to delete an namespace is just a few clicks.](./img/delete-ns.gif)
+![All you need to delete an namespace is just a few clicks.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/deployment/namespace/img/delete-ns.gif)
 
 ## Deletion Flow
 
-![Delete Namespace](./img/delete-ns.png)
+![Delete Namespace](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/deployment/namespace/img/delete-ns.png)
 
 All you need to delete an namespace is just a few clicks.
 

@@ -4,11 +4,11 @@ sidebar_position: 3
 
 # Deleting a Fleet
 
-![All you need to delete an fleet is just a few clicks.](./img/delete-fleet.gif)
+![All you need to delete an fleet is just a few clicks.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/deployment/fleet/img/delete-fleet.gif)
 
 ## Deletion Flow
 
-![Delete Fleet](./img/delete-fleet.png)
+![Delete Fleet](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/deployment/fleet/img/delete-fleet.png)
 
 All you need to delete an fleet is just a few clicks.
 

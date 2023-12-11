@@ -5,7 +5,7 @@ sidebar_position: 1
 # Overview
 A Region in the robolaunch platform empowers your organization to seamlessly provision and manage computing resources, catering to both Cloud Instances and Physical Instances (if any), in a unified cloud-based platform. 
 
-![Region Overview](./img/region-overview.png)
+![Region Overview](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/region/img/region-overview.png)
 
 This flexible infrastructure facilitates the integration of virtual machines (Cloud Instances) for AI and robotics development and connects them with single board computers and robots (Physical Instances) through a secure network.
 
@@ -21,34 +21,34 @@ This flexible infrastructure facilitates the integration of virtual machines (Cl
 # Navigating Region Dashboard
 The region dashboard provides detailed information about the regions you have. It basically consists of 2 sections. Widgets and general view:
 
-![The region dashboard provides detailed information about the regions you have.](./img/region-dashboard.png)
+![The region dashboard provides detailed information about the regions you have.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/region/img/region-dashboard.png)
 
 ## Widgets
 
-![Region Dashboard Widgets](./img/region-widgets.png)
+![Region Dashboard Widgets](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/region/img/region-widgets.png)
 
 Widgets provide information about objects on the dashboard.
 
 ### Information Widget
 
-![Region Dashboard Widgets](./img/region-info-widget.png)
+![Region Dashboard Widgets](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/region/img/region-info-widget.png)
 
 The information widget explains which objects are available on the current dashboard and how they can be managed. You can run the auxiliary guide on this subject with the `Show Guide` button.
 
 ### Provider Regions
 
-![Region Dashboard Widgets](./img/region-provider-widget.png)
+![Region Dashboard Widgets](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/region/img/region-provider-widget.png)
 
 Provider Regions Widget is maps the locations of instances created in cloud providers.
 
 ### State Widget
 
-![Region Dashboard Widgets](./img/region-state-widget.png)
+![Region Dashboard Widgets](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/region/img/region-state-widget.png)
 
 State Widget is a pie widget that visualizes the states of current objects and possible errors.
 
 ## Table
 
-![Region Table](./img/region-table.png)
+![Region Table](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/region/img/region-table.png)
 
 General Table displays detailed information of existing objects. You can manage your objects with the `Actions` tab.

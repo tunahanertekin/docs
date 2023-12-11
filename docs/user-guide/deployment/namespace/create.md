@@ -4,11 +4,11 @@ sidebar_position: 2
 
 # Creating a Namespace
 
-![To create a Namespace, all you need is to determine a Namespace name.](./img/create-ns.gif)
+![To create a Namespace, all you need is to determine a Namespace name.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/deployment/namespace/img/create-ns.gif)
 
 ## Creation Flow
 
-![Create Namespace](./img/create-ns.png)
+![Create Namespace](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/deployment/namespace/img/create-ns.png)
 
 To create a Namespace, all you need is to determine a Namespace name.
 

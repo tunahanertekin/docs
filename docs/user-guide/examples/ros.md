@@ -9,7 +9,7 @@ sidebar_position: 2
 ## Create a ROS Application in Just a Few Clicks
 robolaunch makes it simple to get started with ROS. Forget about manual installations and configuration complexities. robolaunch takes care of everything for you, offering a pre-configured ROS environment ready to use in the cloud.
 
-![To create a Ros, you need is to few click.](./img/ros.png)
+![To create a Ros, you need is to few click.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/examples/img/ros.png)
 
 ## Here's how to create a ROS application on robolaunch:
 - Click the **Application** button on the sidebar to open the list of applications.
@@ -22,7 +22,7 @@ robolaunch makes it simple to get started with ROS. Forget about manual installa
 
 Upon clicking the Create Application button, robolaunch automatically sets up a ROS environment for you in the cloud. This environment includes all the necessary ROS packages and tools, allowing you to start developing your robot application immediately.
 
-![ROS](./img/ros.gif)
+![ROS](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/examples/img/ros.gif)
 
 ## Example Use Cases:
 

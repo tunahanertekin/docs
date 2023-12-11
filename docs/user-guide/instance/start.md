@@ -5,7 +5,7 @@ sidebar_position: 3
 # Starting Instance
 Embark on your AI/ML development or robotics operations journey with the video guide below. Learn how to seamlessly start a Cloud Instance within the robolaunch platform directly from the Instance dashboard. Navigate to the list of Instances, locate the specific instance you wish to activate, and make your selection. This step-by-step walkthrough illustrates the straightforward process of initiating the start command and monitoring the instance's status. 
 
-![All you need to start an instance is just a few clicks.](./img/start-instance.gif)
+![All you need to start an instance is just a few clicks.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/instance/img/start-instance.gif)
 
 ## Starting Steps
  Follow the simple steps below to start your instance within the robolaunch platform.
