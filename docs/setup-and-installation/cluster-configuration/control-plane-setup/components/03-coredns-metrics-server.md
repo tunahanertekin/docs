@@ -64,7 +64,7 @@ image:
 
 Install CoreDNS and Metrics Server via Helm:
 
-```yaml
+```bash
 helm upgrade --install \
   coredns ~/robolaunch/coredns/coredns-1.24.5.tgz \
   --namespace coredns \
