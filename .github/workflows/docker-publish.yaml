@@ -28,8 +28,6 @@ jobs:
           push: true
           tags: |
             robolaunchio/docs:latest
-            robolaunchio/docs:${{ github.sha }}
-            robolaunchio/docs:${{ steps.get_version.outputs.version }}
         env:
           DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
           DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
