@@ -35,7 +35,7 @@ chmod +x ~/run.sh
 
 Get OIDC client secret from Keycloak available on control plane:
 
-**SCREENSHOT**
+![Get client secret](https://github.com/robolaunch/trademark/blob/main/repository-media/docs/setup/img/get-client-secret.png?raw=true)
 
 Enter the asset names gathered from control plane as environment variables:
 
@@ -57,6 +57,16 @@ Run the script:
 ~/run.sh
 ```
 
-After the script finishes the installation, get `kubeconfig` file from data plane and add it to the MinIO available on control plane:
+After the script finishes the installation, get `kubeconfig` file from data plane and add it to the organization's bucket in MinIO available on control plane. Remember that you should place the `kubeconfig` to the right path as in image and data plane's IP should be accessible from control plane:
 
-**SCREENSHOT**
+```bash
+export dp_accessible_ip=$(hostname -I | head -n1 | awk '{print $1;}');
+sed -i "s/127.0.0.1/$dp_accessible_ip/g" /etc/rancher/k3s/k3s.yaml;
+cat /etc/rancher/k3s/k3s.yaml # get the content to your desktop, in a file named "your-ci-name-kubeconfig.yaml"
+```
+
+![MinIO kubeconfig](https://github.com/robolaunch/trademark/blob/main/repository-media/docs/setup/img/minio-kubeconfig.png?raw=true)
+
+Now you can check if your cloud instance is visible from UI:
+
+![UI cloud instance](https://github.com/robolaunch/trademark/blob/main/repository-media/docs/setup/img/ui-cloud-instance.png?raw=true)
