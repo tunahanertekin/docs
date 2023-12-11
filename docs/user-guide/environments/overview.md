@@ -12,9 +12,20 @@ In the robolaunch platform, the term **Environment** encompasses the distinct us
 
 The Application Environment is tailored for AI/ML development projects. Whether you're creating machine learning models, running data analytics, or deploying sophisticated AI applications, this environment provides the tools and resources needed for advanced computational tasks. Through a user-friendly interface, developers can effortlessly manage their AI/ML projects, ensuring efficient collaboration and streamlined workflows.
 
+
 **Features:**
 
-_will be added soon..._
+- **Containerized AI/ML environment:**
+
+    - Application provisions a containerized environment with ready-to-use AI/ML tools & frameworks, providing a standardized and portable framework for developing and running AI/ML applications.
+
+- **Cloud VDI (Remote Desktop):**
+
+    - Application offers integration with a cloud-based Virtual Desktop Infrastructure, providing a remote desktop environment for visualization and control of AI/ML applications.
+
+- **Cloud IDE (Code Editor):**
+
+    - Application provides integration with a cloud-based Integrated Development Environment, allowing developers to remotely write, test, and debug AI/ML applications.
 
 ## 2. Robot Environment (Robotics Projects)
 

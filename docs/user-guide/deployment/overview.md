@@ -10,7 +10,7 @@ In the robolaunch platform, the term **Deployment** encompasses the distinct use
 
 ## 1. Namespace 
     
-_will be added soon..._
+Namespaces are a way to organize clusters into virtual sub-clusters — they can be helpful when different teams or projects share a Kubernetes cluster. In robolaunch Cloud AI/ML Platform, namespaces are often used for isolate applications in a logical level to utilize user/group/organization level tenancy.
 
 ## 2. Fleet
 
