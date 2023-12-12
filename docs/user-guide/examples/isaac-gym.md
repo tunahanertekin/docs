@@ -22,7 +22,7 @@ With robolaunch, you can create an Isaac Gym application in just a few clicks. N
 
 Once you click the **Create Application** button, robolaunch will automatically create an Isaac Gym instance for you in the cloud. You can then start using Isaac Gym immediately to simulate your robotics and AI applications.
 
-![Isaac Gym](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/examples/img/isaac-gym.gif)
+![Isaac Gym](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/isaac-gym.gif)
 
 ## Example Use Cases:
 

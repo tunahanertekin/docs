@@ -24,7 +24,7 @@ With robolaunch, creating a YOLO application is a breeze. No need for complex in
 
 Once you click the Create Application button, robolaunch instantly sets up a YOLO environment for you in the cloud. This pre-configured environment includes all the necessary libraries, dependencies, and resources for running YOLO models efficiently.
 
-![YOLO](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/examples/img/yolo.gif)
+![YOLO](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/yolo.gif)
 
 ## Example Use Cases:
 
