@@ -16,8 +16,6 @@ Before you embark on your AI/ML development or robotics journey, explore the vid
 
 To create a Cloud Instance, all you need is to determine a Cloud Instance name.
 
-![You can follow this flow to add your Physical Instance](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/instance/img/add-physical-instance.png)
-
 - Click on the "Instances" button in the sidebar to open the list of Cloud Instances. The current Cloud Instances you have will be listed in the displayed tab.
 
 - At the bottom of the opened tab, click on the "Create a Cloud Instance" button.
@@ -33,9 +31,9 @@ To create a Cloud Instance, all you need is to determine a Cloud Instance name.
 After clicking, you will be redirected to the Cloud Instance list. In the displayed list, you can view the Cloud Instance you created.
 
 ## Creating a Physical Instance
-Integrate your physical instance seamlessly with the cloud instances that power your robots through Robolaunch. A Physical Instance, in the context of Robolaunch, refers to a tangible device like a single board computer or robot that seamlessly integrates into the Robotics Cloud platform. This integration is achieved by running a script, establishing a connection with the platform for remote management, monitoring, and application deployment. The process typically takes just a few minutes, allowing you to swiftly incorporate the Physical Instance into your robotics ecosystem.
+Integrate your physical instance seamlessly with the cloud instances that power your robots through robolaunch. A Physical Instance, in the context of robolaunch, refers to a tangible device like a single board computer or robot that seamlessly integrates into the Robotics Cloud platform. This integration is achieved by running a script, establishing a connection with the platform for remote management, monitoring, and application deployment. The process typically takes just a few minutes, allowing you to swiftly incorporate the Physical Instance into your robotics ecosystem.
 
-![You can connect your physical instance to match the instance that will run on the robots with the cloud instance offered by Robolaunch.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/instance/img/add-physical-instance.gif)
+![You can connect your physical instance to match the instance that will run on the robots with the cloud instance offered by robolaunch.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/instance/img/add-physical-instance.gif)
 
 ### Physical Instance Creation Flow
 Adding a Physical Instance to your setup is a streamlined process:

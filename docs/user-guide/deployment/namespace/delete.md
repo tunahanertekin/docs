@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Deleting a Namespace
+# Deleting Namespace
 
 ![All you need to delete an namespace is just a few clicks.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/deployment/namespace/img/delete-ns.gif)
 

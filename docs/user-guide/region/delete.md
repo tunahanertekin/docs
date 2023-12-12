@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Deleting a Region
+# Deleting Region
 
 Below, the video offers a detailed walkthrough of the Region deletion process within robolaunch. Observe as the user navigates through the platform, accessing the 'Region' section on the dashboard and initiating the deletion of a Region. The process involves careful consideration and confirmation due to the potential impact on associated Cloud and Physical Instances. Witness how the user efficiently manages this task, ensuring a streamlined workflow within the robolaunch environment. Gain insights into the considerations and steps involved in deleting a Region as you optimize your infrastructure for your specific AI and robotics development needs.
 

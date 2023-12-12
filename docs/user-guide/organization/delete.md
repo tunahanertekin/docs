@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Deleting an Organization
+# Deleting Organization
 
 Below, the video offers a step-by-step demonstration of the organization deletion process on robolaunch. Observe as the user navigates through the platform, accesses the 'Organization' section, and initiates the deletion of an organization. The process involves careful consideration and confirmation due to the potential impact on associated accounts, projects, and resources. 
 

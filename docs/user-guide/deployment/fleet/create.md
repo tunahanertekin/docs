@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Creatin a Fleet
+# Creating Fleet
 
 ![To create a Fleet, all you need is to determine a fleet name.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/deployment/fleet/img/create-fleet.gif)
 

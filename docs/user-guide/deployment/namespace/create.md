@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Creating a Namespace
+# Creating Namespace
 
 ![To create a Namespace, all you need is to determine a Namespace name.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/deployment/namespace/img/create-ns.gif)
 
@@ -22,4 +22,4 @@ To create a Namespace, all you need is to determine a Namespace name.
 
 - Finally, click on the "Create a new Namespace" button.
 
-After clicking, you will be redirected to the Namespace list. In the displayed list, you can view the Fleet you created.
+After clicking, you will be redirected to the Namespace list. In the displayed list, you can view the Namespace you created.
