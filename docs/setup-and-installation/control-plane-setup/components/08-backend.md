@@ -4,8 +4,6 @@ sidebar_position: 8
 
 # viii. Deploying robolaunch Backend
 
-Every control plane needs a specific robolaunch Backend image that contains secrets from Keycloak and MinIO. If you don't have such image, please get in touch with us from info@robolaunch.io.
-
 Edit `deployment.yaml`. Remember replacing `<ROBOLAUNCH-BACKEND-IMAGE>`: 
 
 ```bash
