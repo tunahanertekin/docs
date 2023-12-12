@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Creating an Organization
+# Creating Organization
 
 Below video provides a visual walkthrough of the organization creation process on robolaunch. Watch as the user seamlessly navigates through the robolaunch dashboard, accessing the 'Organization' section, initiating the creation of a new organization, and completing the form with the desired organization name. 
 

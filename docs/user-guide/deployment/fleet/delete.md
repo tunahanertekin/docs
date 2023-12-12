@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Deleting a Fleet
+# Deleting Fleet
 
 ![All you need to delete an fleet is just a few clicks.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/deployment/fleet/img/delete-fleet.gif)
 

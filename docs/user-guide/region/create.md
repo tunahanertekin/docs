@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Creating a Region
+# Creating Region
 Below, the video offers a detailed walkthrough of the Region creation process within robolaunch. Observe as the user navigates through the platform, exploring the 'Region' section on the dashboard. Witness the seamless initiation of a new Region, where computing resources for both AI and robotics development are provisioned and managed. The user efficiently completes the required details, ensuring a streamlined workflow within the robolaunch environment. 
 
 ![To create a Region, all you need is to determine a Region name.](https://raw.githubusercontent.com/robolaunch/trademark/main/repository-media/docs/user-guide/region/img/create-region.gif)

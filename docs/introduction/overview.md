@@ -11,7 +11,7 @@ sidebar_position: 1
 ## What can be achieved?
 - **AI/ML Development:** Facilitate the creation of machine learning models through cloud-based Integrated Development Environments (IDEs) paired with GPU-based Virtual Desktop Infrastructure (VDI). This allows engineers to focus on application development without the burden of intricate infrastructure configurations.
 
-- **Robotics Development:** Robolaunch offers an all-in-one environment for developing, training, and deploying robotics applications, fostering teamwork and accelerating the transition from development to production.
+- **Robotics Development:** robolaunch offers an all-in-one environment for developing, training, and deploying robotics applications, fostering teamwork and accelerating the transition from development to production.
 
 - **Fleet Management:** Command and manage robotic fleets effortlessly. Connect, assign tasks, teleoperate, and monitor your fleet seamlessly, enhancing operational efficiency.
 
